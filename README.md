@@ -12,5 +12,3 @@ A secure payment and ledger system.
 - Database: PostgreSQL
 - Cache: Redis
 - Tool: Postman
-
-- 
